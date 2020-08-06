@@ -1,4 +1,4 @@
-# TwitterNodeAnalysisTesla
+# Twitter Node Analysis on R
 
 Item_Nodes <- read.csv("/Users/yeeiriser/Desktop/nodesTesla.csv",head=TRUE,sep=",")
 Item_Edges <- read.csv("/Users/yeeiriser/Desktop/edgesTesla.csv",head=TRUE,sep=",")
